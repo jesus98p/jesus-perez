@@ -1,0 +1,119 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-top: 50px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 10px;
+}
+
+hr {
+  width: 15%;
+  height: 3%;
+  color: #84a9ac;
+  border-color: #84a9ac;
+}
+
+.top-container {
+  background-color: #84a9ac;
+  padding: 20px;
+  position: relative;
+  padding-top: 50px;
+}
+
+.algoritmo {
+  width: 200px;
+  height: 200px;
+}
+
+.middle-container {
+  background-color: #ebecf1
+}
+
+.informatica-desc {
+  clear: left;
+}
+
+
+.contact-me {
+  background-color: #84a9ac
+}
+
+.desarrollo-web {
+  margin-top: 10px;
+  clear: both;
+  width: 50px;
+  height: 50px;
+}
+
+.engranaje {
+  height: 100px;
+  width: 100px;
+  float: right;
+  margin-left: 30px;
+}
+
+.imagen-codigo {
+  width: 120px;
+  height: 120px;
+  float: left;
+  margin-right: 50px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 10px auto 100px auto;
+  text-align: justify;
+  line-height: 2;
+}
+
+.contact-me {
+  margin-top: 20px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+}
+
+.footer-link {
+  color: black;
+  margin-bottom: 30px;
+  text-decoration: none;
+}
+.footer-link:hover {
+color: #ffffff
+}
+.myButton {
+	box-shadow:inset 0px 1px 3px 0px #91b8b3;
+	background:linear-gradient(to bottom, #768d87 5%, #6c7c7c 100%);
+	background-color:#768d87;
+	border-radius:5px;
+	border:1px solid #566963;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:'Merriweather', serif;
+	font-size:15px;
+	font-weight:bold;
+	padding:11px 23px;
+	text-decoration:none;
+	text-shadow:0px -1px 0px #2b665e;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #6c7c7c 5%, #768d87 100%);
+	background-color:#6c7c7c;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.copyright{
+  color: #ffffff;
+  font-size: 0.75rem;
+}
